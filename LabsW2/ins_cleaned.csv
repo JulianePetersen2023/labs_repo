@@ -1,0 +1,53 @@
+customer,state,gender,education,customer_lifetime_value,income,monthly_premium_auto,number_of_open_complaints,policy_type,vehicle_class,total_claim_amount,gender_mapped,state_mapped,ed_mapped,education_mapped
+AZ95587,AZ,F,Bachelor,1038855.32,61222.0,89.0,1/0/00,Special Auto,Four-Door Car,392.604371,Female,Arizona,Bachelors,Bachelors
+YL83902,WA,F,Bachelor,327419.46,31686.0,81.0,1/0/00,Personal Auto,Four-Door Car,430.994107,Female,Washington,Bachelors,Bachelors
+BG76355,WA,F,Bachelor,627412.39,68964.0,78.0,1/0/00,Personal Auto,Four-Door Car,115.086827,Female,Washington,Bachelors,Bachelors
+DE21533,Cali,M,Bachelor,547315.99,93870.0,69.0,1/0/00,Personal Auto,Four-Door Car,331.2,Male,California,Bachelors,Bachelors
+WU14435,Cali,M,Bachelor,496096.54,18174.0,66.0,1/0/00,Corporate Auto,Four-Door Car,395.934815,Male,California,Bachelors,Bachelors
+RO73268,Cali,M,Bachelor,321107.0,16269.0,86.0,1/0/00,Corporate Auto,Two-Door Car,412.8,Male,California,Bachelors,Bachelors
+JM62924,WA,M,Bachelor,1322304.38,37534.0,84.0,1/2/00,Personal Auto,Four-Door Car,403.2,Male,Washington,Bachelors,Bachelors
+QX45933,Cali,M,Bachelor,1784019.56,0.0,62.0,1/0/00,Personal Auto,Four-Door Car,385.115437,Male,California,Bachelors,Bachelors
+UC33108,Cali,M,Bachelor,656364.41,32375.0,83.0,1/0/00,Personal Auto,Four-Door Car,398.4,Male,California,Bachelors,Bachelors
+AY40674,WA,F,Bachelor,482141.85,26583.0,1005.0,1/4/00,Personal Auto,SUV,614.4,Female,Washington,Bachelors,Bachelors
+NC53424,Cali,M,Bachelor,437608.4,0.0,69.0,1/4/00,Personal Auto,Two-Door Car,331.2,Male,California,Bachelors,Bachelors
+LA97014,WA,M,Bachelor,257651.3,37574.0,66.0,1/1/00,Personal Auto,Two-Door Car,412.101933,Male,Washington,Bachelors,Bachelors
+NB79936,WA,M,Bachelor,834698.32,48259.0,108.0,1/0/00,Personal Auto,Two-Door Car,73.700573,Male,Washington,Bachelors,Bachelors
+ZG48513,Cali,M,Bachelor,470667.7,0.0,72.0,1/0/00,Personal Auto,Four-Door Car,345.6,Male,California,Bachelors,Bachelors
+MF82000,WA,female,Bachelor,236534.86,0.0,66.0,1/2/00,Special Auto,Four-Door Car,159.636956,Female,Washington,Bachelors,Bachelors
+GV45403,AZ,M,Bachelor,775712.81,0.0,111.0,1/0/00,Corporate Auto,Two-Door Car,607.4459,Male,Arizona,Bachelors,Bachelors
+FY51713,AZ,F,Bachelor,357076.05,56168.0,88.0,1/0/00,Personal Auto,Four-Door Car,614.675906,Female,Arizona,Bachelors,Bachelors
+YH92099,AZ,F,Bachelor,308799.99,18558.0,80.0,1/0/00,Special Auto,Four-Door Car,384.0,Female,Arizona,Bachelors,Bachelors
+QW47320,Cali,F,Bachelor,1017971.7,14290.0,271.0,1/0/00,Personal Auto,Luxury,1300.8,Female,California,Bachelors,Bachelors
+PA16884,Cali,F,Bachelor,411858.86,69379.0,103.0,1/0/00,Personal Auto,Two-Door Car,494.4,Female,California,Bachelors,Bachelors
+ZW71731,Cali,M,Bachelor,517035.84,89284.0,133.0,1/2/00,Corporate Auto,SUV,402.070719,Male,California,Bachelors,Bachelors
+CH97539,WA,F,Bachelor,828696.44,40001.0,70.0,1/0/00,Personal Auto,Four-Door Car,142.567008,Female,Washington,Bachelors,Bachelors
+LB25094,Cali,F,Bachelor,253070.51,89451.0,63.0,1/0/00,Special Auto,Four-Door Car,61.769564,Female,California,Bachelors,Bachelors
+XO36233,WA,M,Bachelor,864153.0,78904.0,109.0,1/0/00,Personal Auto,SUV,250.001424,Male,Washington,Bachelors,Bachelors
+QW33258,Cali,M,Bachelor,708283.04,53310.0,189.0,1/3/00,Personal Auto,Luxury,1360.8,Male,California,Bachelors,Bachelors
+FI61723,Cali,M,Bachelor,278742.37,38667.0,72.0,1/0/00,Personal Auto,Four-Door Car,159.266473,Male,California,Bachelors,Bachelors
+RV67546,Cali,M,Bachelor,371243.05,73205.0,92.0,1/0/00,Personal Auto,Four-Door Car,37.299865,Male,California,Bachelors,Bachelors
+IB67546,Cali,F,Bachelor,823703.79,23940.0,107.0,1/0/00,Personal Auto,SUV,513.6,Female,California,Bachelors,Bachelors
+CM95716,Cali,M,Bachelor,843446.41,44216.0,71.0,1/0/00,Personal Auto,Four-Door Car,72.205362,Male,California,Bachelors,Bachelors
+GB35238,Cali,F,Bachelor,757953.27,33906.0,64.0,1/0/00,Personal Auto,Two-Door Car,401.592109,Female,California,Bachelors,Bachelors
+OB69153,Cali,M,Bachelor,258218.53,68074.0,65.0,1/0/00,Personal Auto,Four-Door Car,27.987867,Male,California,Bachelors,Bachelors
+UU98729,Cali,M,Bachelor,535719.27,0.0,73.0,1/0/00,Personal Auto,Four-Door Car,350.853987,Male,California,Bachelors,Bachelors
+JC29295,Cali,F,Bachelor,1344100.64,80744.0,111.0,1/0/00,Personal Auto,SUV,361.284757,Female,California,Bachelors,Bachelors
+KJ87930,Cali,F,Bachelor,388650.48,0.0,112.0,1/0/00,Corporate Auto,SUV,1185.988301,Female,California,Bachelors,Bachelors
+SP58110,Cali,F,Bachelor,492318.17,61469.0,63.0,1/5/00,Personal Auto,Four-Door Car,302.4,Female,California,Bachelors,Bachelors
+TV82603,Cali,F,Bachelor,1489539.8,48081.0,188.0,1/0/00,Personal Auto,Luxury,881.360959,Female,California,Bachelors,Bachelors
+QD31377,Cali,M,Bachelor,859566.53,34621.0,108.0,1/1/00,Corporate Auto,SUV,621.464468,Male,California,Bachelors,Bachelors
+VY19543,Cali,F,Bachelor,831113.59,0.0,72.0,1/0/00,Corporate Auto,Four-Door Car,311.329282,Female,California,Bachelors,Bachelors
+JO63462,Cali,M,Bachelor,330799.9,79797.0,84.0,1/0/00,Corporate Auto,Two-Door Car,31.755601,Male,California,Bachelors,Bachelors
+XX88577,Cali,M,Bachelor,1572713.06,84824.0,196.0,1/0/00,Corporate Auto,SUV,319.820747,Male,California,Bachelors,Bachelors
+WH32183,Cali,M,Bachelor,832307.4,97245.0,70.0,1/0/00,Personal Auto,Four-Door Car,4.110585,Male,California,Bachelors,Bachelors
+DW96592,Cali,M,Bachelor,804487.24,71391.0,67.0,1/0/00,Personal Auto,Four-Door Car,284.000172,Male,California,Bachelors,Bachelors
+YE97964,Cali,F,Bachelor,1646436.59,27760.0,104.0,1/0/00,Personal Auto,SUV,302.764283,Female,California,Bachelors,Bachelors
+VL37375,Cali,M,Bachelor,618509.65,0.0,92.0,1/0/00,Personal Auto,Two-Door Car,1027.177255,Male,California,Bachelors,Bachelors
+EG40670,Cali,F,Bachelor,623268.79,28334.0,83.0,1/0/00,Special Auto,Four-Door Car,537.765151,Female,California,Bachelors,Bachelors
+TC44716,Cali,M,Bachelor,2156933.73,23909.0,119.0,1/0/00,Personal Auto,SUV,571.2,Male,California,Bachelors,Bachelors
+OT52034,Cali,M,Bachelor,386477.68,24204.0,99.0,1/1/00,Personal Auto,Four-Door Car,707.303416,Male,California,Bachelors,Bachelors
+EM27919,Cali,M,Bachelor,445811.34,17622.0,65.0,1/1/00,Personal Auto,Four-Door Car,312.0,Male,California,Bachelors,Bachelors
+TK30357,Cali,F,Bachelor,1413434.74,90844.0,118.0,1/0/00,Personal Auto,SUV,232.674417,Female,California,Bachelors,Bachelors
+NH16984,Cali,F,Bachelor,283806.78,0.0,80.0,1/0/00,Personal Auto,Four-Door Car,336.50961,Female,California,Bachelors,Bachelors
+RY92647,Cali,F,Bachelor,1050677.17,0.0,92.0,1/0/00,Personal Auto,Four-Door Car,546.524896,Female,California,Bachelors,Bachelors
+XD85577,Cali,M,Bachelor,284226.69,69417.0,73.0,1/1/00,Personal Auto,Four-Door Car,30.874869,Male,California,Bachelors,Bachelors

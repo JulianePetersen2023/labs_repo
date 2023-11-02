@@ -1,0 +1,965 @@
+"startup_name";"valuation"
+"Bytedance";140
+"SpaceX";100
+"Stripe";95
+"Klarna";46
+"Canva";40
+"Instacart";39
+"Databricks";38
+"Revolut";33
+"Nubank";30
+"Epic Games";29
+"Chime";25
+"FTX";25
+"FTX";25
+"BYJU's";21
+"Xiaohongshu";20
+"J&T Express";20
+"Fanatics";18
+"Yuanfudao";16
+"Checkout.com";15
+"SHEIN";15
+"DJI Innovations";15
+"goPuff";15
+"Grammarly";13
+"Plaid Technologies";13
+"Devoted Health";13
+"Bitmain Technologies";12
+"JUUL Labs";12
+"Brex";12
+"Faire";12
+"SenseTime";12
+"Biosplice Therapeutics";12
+"GoodLeap";12
+"Global Switch";11
+"ZongMu Technology";11
+"Celonis";11
+"Weilong";11
+"Notion Labs";10
+"Talkdesk";10
+"reddit";10
+"Gusto";10
+"Figma";10
+"Ripple";10
+"Lalamove";10
+"Thrasio";10
+"Digital Currency Group";10
+"OutSystems";10
+"ServiceTitan";10
+"OYO Rooms";10
+"Chehaoduo";9
+"Niantic";9
+"Northvolt";9
+"Rapyd";9
+"HEYTEA";9
+"Klaviyo";9
+"N26";9
+"Tanium";9
+"Kavak";9
+"Snyk";9
+"Nuro";9
+"Hopin";8
+"Ola Cabs";8
+"Fireblocks";8
+"Lacework";8
+"Tipalti";8
+"Tempus";8
+"Xingsheng Selected";8
+"Dream11";8
+"Caris Life Sciences";8
+"Dapper Labs";8
+"Getir";8
+"Netskope";8
+"Ziroom";7
+"Rippling";7
+"Discord";7
+"Scale AI";7
+"Carta";7
+"Gemini";7
+"Automation Anywhere";7
+"National Stock Exchange of India";7
+"Toss";7
+"Argo AI";7
+"TripActions";7
+"Gong";7
+"We Doctor";7
+"Mollie";7
+"Lianjia";6
+"Easyhome";6
+"Yuanqi Senlin";6
+"Deel";6
+"Postman";6
+"Airtable";6
+"Bolt";6
+"Benchling";6
+"Hinge Health";6
+"Samsara Networks";6
+"Swiggy";6
+"Royole Corporation";6
+"Personio";6
+"Better.com";6
+"DataRobot";6
+"Workato";6
+"Black Unicorn Factory";6
+"Wiz";6
+"Attentive";6
+"Cityblock Health";6
+"Vice Media";6
+"FiveTran";6
+"Airwallex";6
+"VIPKid";5
+"Horizon Robotics";5
+"BetterUp";5
+"Zenefits";5
+"Checkr";5
+"Cerebral";5
+"HashiCorp";5
+"Monzo";5
+"OakNorth";5
+"ZEPZ";5
+"Howden Group Holdings";5
+"Blockchain.com";5
+"C6 Bank";5
+"Meesho";5
+"WM Motor";5
+"Hello TransTech";5
+"United Imaging Healthcare";5
+"Socure";5
+"Dataiku";5
+"Ro";5
+"Trade Republic";5
+"SambaNova Systems";5
+"Moon Active";5
+"Pony.ai";5
+"Rappi";5
+"Collibra";5
+"OneTrust";5
+"QuintoAndar";5
+"Anduril";5
+"Color";5
+"Lyra Health";5
+"Meizu Technology";5
+"Vinted";5
+"Bolt";5
+"MEGVII";4
+"Miaoshou Doctor";4
+"Alchemy";4
+"Coalition";4
+"Commure";4
+"Clubhouse";4
+"Patreon";4
+"Greensill";4
+"HyalRoute";4
+"Digit Insurance";4
+"CRED";4
+"UBTECH Robotics";4
+"ClickUp";4
+"Papaya Global";4
+"Noom";4
+"VAST Data";4
+"Articulate";4
+"Ramp Financial";4
+"iCapital Network";4
+"Dataminr";4
+"Chainalysis";4
+"Indigo Ag";4
+"Whoop";4
+"Intarcia Therapeutics";4
+"Cohesity";4
+"FalconX";4
+"Relativity";4
+"Yello Mobile";4
+"Rubrik";4
+"Next Insurance";4
+"Houzz";4
+"MessageBird";4
+"Melio";4
+"Outreach";4
+"Arctic Wolf Networks";4
+"Mirakl";4
+"Sorare";4
+"Relativity Space";4
+"Applied Intuition";4
+"Zapier";4
+"ThoughtSpot";4
+"SSENSE";4
+"BitPanda";4
+"Impossible Foods";4
+"Radiology Partners";4
+"PointClickCare";4
+"BrowserStack";4
+"Olive";4
+"Vuori";4
+"Cerebras Systems";4
+"Farmers Business Network";4
+"StockX";4
+"Guild Education";4
+"Dutchie";4
+"GOAT";4
+"Redwood Materials";4
+"Otto Bock HealthCare";4
+"HyalRoute";4
+"Tekion";4
+"BrowserStack";4
+"Meicai";3
+"Zuoyebang";3
+"Yixia";3
+"VANCL";3
+"Ethos Technologies";3
+"Vercel";3
+"Varo Bank";3
+"Side";3
+"Sourcegraph";3
+"Tradeshift";3
+"MasterClass";3
+"Zipline";3
+"OpenAI";3
+"Kraken";3
+"Outschool";3
+"Carbon Health";3
+"SpotOn";3
+"Flexport";3
+"Thumbtack";3
+"Komodo Health";3
+"Upgrade";3
+"Loft";3
+"Wildlife Studios";3
+"Nuvemshop";3
+"Groww";3
+"Ola Electric Mobility";3
+"ShareChat";3
+"Razorpay";3
+"Udaan";3
+"Unacademy";3
+"Hozon Auto";3
+"Youxia Motors";3
+"Ovo";3
+"Traveloka";3
+"Dadi Cinema";3
+"Seismic";3
+"FlixMobility";3
+"Via";3
+"Grafana Labs";3
+"Forter";3
+"ConsenSys";3
+"Cedar";3
+"Circle";3
+"Age of Learning";3
+"Flink";3
+"Gorillas";3
+"Contentful";3
+"ActiveCampaign";3
+"Eruditus Executive Education";3
+"Blockstream";3
+"Plume";3
+"PsiQuantum";3
+"SouChe Holdings";3
+"Cato Networks";3
+"Transmit Security";3
+"Celsius Network";3
+"LaunchDarkly";3
+"Weee!";3
+"Calendly";3
+"Convoy";3
+"ManoMano";3
+"ContentSquare";3
+"Back Market";3
+"Illumio";3
+"Hopper";3
+"Scopely";3
+"MoonPay";3
+"OwnBackup";3
+"WeRide";3
+"Cloudwalk";3
+"ECARX";3
+"Sila Nanotechnologies";3
+"BYTON";3
+"Huitongda";3
+"HighRadius";3
+"BGL Group";3
+"OfBusiness";3
+"Delhivery";3
+"Pine Labs";3
+"ApplyBoard";3
+"BlockFi";3
+"CMR Surgical";3
+"Lucid Software";3
+"Sky Mavis";3
+"TradingView";3
+"Podium";3
+"Workrise";3
+"BharatPe";3
+"DriveWealth";3
+"Icertis";3
+"Graphcore";3
+"Nextiva";3
+"Pendo";3
+"JumpCloud";3
+"Vista Global";3
+"Acronis";3
+"Lenskart";3
+"Infra.Market";3
+"Aura";3
+"CMR Surgical";3
+"KK Group";3
+"Yijiupi";2
+"XiaoZhu";2
+"TuJia";2
+"Baiwang";2
+"Jusfoun Big Data";2
+"Apus Group";2
+"Fenbi Education";2
+"Beisen";2
+"Arrail Dental";2
+"Keep";2
+"Mafengwo";2
+"4Paradigm";2
+"HuiMin";2
+"CoinList";2
+"Persona";2
+"SmartRecruiters";2
+"Chipper Cash";2
+"Snapdocs";2
+"Handshake";2
+"Strava";2
+"Collective Health";2
+"Loom";2
+"HomeLight";2
+"Mercury";2
+"Extend";2
+"Tonal";2
+"CircleCI";2
+"Harness";2
+"PAX";2
+"Allbirds";2
+"Diamond Foundry";2
+"Automattic";2
+"Deliverr";2
+"Netlify";2
+"Modern Treasury";2
+"Divvy Homes";2
+"MURAL";2
+"Iterable";2
+"Hive";2
+"Virta Health";2
+"AppsFlyer";2
+"Calm";2
+"6Sense";2
+"Webflow";2
+"Planet Labs";2
+"Algolia";2
+"KeepTruckin";2
+"KRY";2
+"Starling Bank";2
+"Zilch";2
+"Improbable";2
+"Bought By Many";2
+"Creditas";2
+"Loggi";2
+"1";2
+"Advance Intelligence Group";2
+"CureFit";2
+"Mobile Premier League";2
+"YunQuNa";2
+"Changingedu";2
+"Mofang Living";2
+"Ximalaya FM";2
+"Iluvatar CoreX";2
+"ASR Microelectronics";2
+"AIWAYS";2
+"ENOVATE";2
+"eDaili";2
+"Black Sesame Technologies";2
+"Guoquan Shihui";2
+"YITU Technology";2
+"Huaqin Telecom Technology";2
+"Biren Technology";2
+"XtalPi";2
+"Xingyun Group";2
+"Tubatu.com";2
+"dbt Labs";2
+"Infinidat";2
+"Lusha";2
+"candy.com";2
+"Andela";2
+"OpenSea";2
+"K Health";2
+"ASAPP";2
+"Unite Us";2
+"Harry's Razor Company";2
+"Opentrons";2
+"ZocDoc";2
+"InVision";2
+"SWORD Health";2
+"Spring Health";2
+"Unqork";2
+"Cockroach Labs";2
+"Gympass";2
+"Current";2
+"Bowery Farming";2
+"Trumid";2
+"Paxos";2
+"CFGI";2
+"Reify Health";2
+"BitSight Technologies";2
+"Cybereason";2
+"solarisBank";2
+"wefox";2
+"Tier Mobility";2
+"Mambu";2
+"Spinny";2
+"H2O.ai";2
+"Redis Labs";2
+"Quora";2
+"Moveworks";2
+"Addepar";2
+"Zume";2
+"Verkada";2
+"Neo4j";2
+"Avant";2
+"Uptake";2
+"Trulioo";2
+"SoundHound";2
+"Eightfold.ai";2
+"Kurly";2
+"MUSINSA";2
+"WEMAKEPRICE";2
+"Medable";2
+"JOLLY Information Technology";2
+"DT Dream";2
+"Cao Cao Mobility";2
+"Kujiale";2
+"Cgtz";2
+"Bunq";2
+"Skims";2
+"ReCharge";2
+"Next Silicon";2
+"Gett";2
+"Hibob";2
+"VerbIT";2
+"Pagaya";2
+"Everlaw";2
+"FullStory";2
+"Greenlight";2
+"Kajabi";2
+"Highspot";2
+"Ledger";2
+"Alan";2
+"Vestiaire Collective";2
+"BlaBlaCar";2
+"Voodoo";2
+"Clari";2
+"Druva";2
+"Quanergy Systems";2
+"GoStudent";2
+"MOLOCO";2
+"Reltio";2
+"Carbon";2
+"ABL Space Systems";2
+"DispatchHealth";2
+"Advance Intelligence Group";2
+"Pipe";2
+"Kaseya";2
+"Cars24";2
+"Urban Company";2
+"PolicyBazaar";2
+"Devo";2
+"Cambridge Mobile Telematics";2
+"MX Technologies";2
+"Pattern";2
+"ZenBusiness";2
+"Zenoti";2
+"Xinchao Media";2
+"Uala";2
+"Star Charge";2
+"Exabeam";2
+"Jobandtalent";2
+"Skydance Media";2
+"Odoo";2
+"NuCom Group";2
+"Clip";2
+"Bitso";2
+"FirstCry";2
+"Trendy Group International";2
+"SmartHR";2
+"SmartNews";2
+"Preferred Networks";2
+"Formlabs";2
+"LTK";2
+"ISN";2
+"Earnix";2
+"1Password";2
+"Clearco";2
+"OCSiAl";2
+"Apeel Sciences";2
+"Opay";2
+"Aviatrix";2
+"Misfits Market";2
+"Magic Leap";2
+"Aiven";2
+"ClickHouse";2
+"Mynt";2
+"StarkWare";2
+"Aledade";2
+"CoinSwitch Kuber";2
+"Lightricks";2
+"Orca Security";2
+"Pleo";2
+"Wave";2
+"Dragos";2
+"Trader Interactive";2
+"Zhubajie";2
+"Afiniti";2
+"Clio";2
+"SafetyCulture";2
+"Cognite";2
+"Truepill";2
+"Promasidor Holdings";2
+"Wenheyou";2
+"Carzone";2
+"Mu Sigma";2
+"Devo";2
+"Cambridge Mobile Telematics";2
+"Uplight";2
+"ID.me";2
+"Impact";2
+"NotCo";2
+"Culture Amp";2
+"TaxBit";2
+"Pacaso";2
+"1047 Games";2
+"Matillion";2
+"Whatnot";2
+"Ascend Money";2
+"Built";2
+"Moka";1
+"Xiaobing";1
+"AInnovation";1
+"Newlink Group";1
+"KnowBox";1
+"Geek+";1
+"TERMINUS Technology";1
+"Momenta";1
+"FlashEx";1
+"LinkDoc Technology";1
+"Huike Group";1
+"Maimai";1
+"Zhuan Zhuan";1
+"Mobvoi";1
+"Womai";1
+"58 Daojia";1
+"Mia.com";1
+"FXiaoKe";1
+"JimuBox";1
+"Jiuxian";1
+"UISEE Technology";1
+"Nxin";1
+"Luoji Siwei";1
+"Mininglamp Technology";1
+"Unisound";1
+"Aibee";1
+"Pipa Coding";1
+"GalaxySpace";1
+"Kuaikan Manhua";1
+"Huisuanzhang";1
+"TalkingData";1
+"Yidian Zixun";1
+"Koudai";1
+"Stytch";1
+"PandaDoc";1
+"GrubMarket";1
+"PicsArt";1
+"Human Interest";1
+"Pantheon Systems";1
+"Remote";1
+"MobileCoin";1
+"Shippo";1
+"Forte Labs";1
+"HoneyBook";1
+"Mux";1
+"Sift";1
+"Lattice";1
+"Flutterwave";1
+"Sentry";1
+"Standard Cognition";1
+"Qualia";1
+"Quizlet";1
+"Alto Pharmacy";1
+"Lookout";1
+"Mixpanel";1
+"Density";1
+"Instabase";1
+"Fundbox";1
+"People.ai";1
+"Eat Just";1
+"AppDirect";1
+"Elemy";1
+"IRL";1
+"Modern Health";1
+"Sysdig";1
+"Gem";1
+"MindTickle";1
+"Pilot.com";1
+"Dialpad";1
+"Incode Technologies";1
+"Honor Technology";1
+"Intercom";1
+"Innovaccer";1
+"Sonder";1
+"Grove Collaborative";1
+"Panther Labs";1
+"Astranis Space Technologies";1
+"GupShup";1
+"Kong";1
+"Zeta";1
+"Epidemic Sound";1
+"Thought Machine";1
+"Zopa";1
+"TrueLayer";1
+"Tractable";1
+"SaltPay";1
+"PPRO";1
+"Gousto";1
+"SumUp";1
+"BenevolentAI";1
+"The Bank of London";1
+"Zego";1
+"Marshmallow";1
+"Motorway";1
+"CargoX";1
+"Unico";1
+"Movile";1
+"Ninja Van";1
+"Cider";1
+"NIUM";1
+"bolttech";1
+"Carro";1
+"Matrixport";1
+"Moglix";1
+"PatSnap";1
+"WeLab";1
+"Carousell";1
+"Amber Group";1
+"Trax";1
+"Slice";1
+"NoBroker";1
+"Mensa Brands";1
+"Licious";1
+"Vedantu";1
+"Zetwerk";1
+"BlackBuck";1
+"DailyHunt";1
+"InMobi";1
+"Acko General Insurance";1
+"apna";1
+"Gaussian Robotics";1
+"Tezign";1
+"HAYDON";1
+"Keenon Robotics";1
+"XForcePlus";1
+"Poizon";1
+"Banma Network Technologies";1
+"DianRong";1
+"Zhaogang";1
+"iTutorGroup";1
+"HuJiang";1
+"LinkSure Network";1
+"Hesai Tech";1
+"56PINGTAI";1
+"Qingting FM";1
+"Tuhu";1
+"Yimidida";1
+"Yiguo";1
+"Enflame";1
+"Manner";1
+"DeepBlue Technology";1
+"Ouyeel";1
+"Bordrin Motors";1
+"Ajaib";1
+"Xendit";1
+"EcoFlow";1
+"Intellifusion";1
+"Orbbec Technology";1
+"YH Global";1
+"iCarbonX";1
+"Lamabang";1
+"SmartMore";1
+"Hive Box";1
+"Coocaa";1
+"Drata";1
+"Shield AI";1
+"Tealium";1
+"Agile Robots";1
+"Scalable Capital";1
+"YipitData";1
+"Owkin";1
+"Wrapbook";1
+"OpenWeb";1
+"Augury";1
+"Fabric";1
+"Chronosphere";1
+"Masterworks";1
+"TrialSpark";1
+"Orchard";1
+"Maven Clinic";1
+"Bluecore";1
+"SmartAsset";1
+"Aircall";1
+"Claroty";1
+"Thirty Madison";1
+"Vise";1
+"Capsule";1
+"Injective Protocol";1
+"Newsela";1
+"VTS";1
+"Pat McGrath Labs";1
+"MediaMath";1
+"Daily Harvest";1
+"Rightway";1
+"Sisense";1
+"Jokr";1
+"DailyPay";1
+"Axonius";1
+"Public";1
+"Glossier";1
+"BigID";1
+"Betterment";1
+"DistroKid";1
+"You & Mr Jones";1
+"Alloy";1
+"Stash";1
+"Yotpo";1
+"Away";1
+"Symphony";1
+"Justworks";1
+"Starburst";1
+"ezCater";1
+"Starry";1
+"Razor";1
+"Berlin Brands Group";1
+"Omio";1
+"Enpal";1
+"Sennder";1
+"GetYourGuide";1
+"Forto";1
+"Pristyn Care";1
+"Groq";1
+"News Break";1
+"TangoMe";1
+"At-Bay";1
+"Coda";1
+"Splashtop";1
+"Vectra Networks";1
+"Signifyd";1
+"Feedzai";1
+"Evidation";1
+"Sendbird";1
+"Guideline";1
+"Heyday";1
+"ShipBob";1
+"Amount";1
+"Clearcover";1
+"Cameo";1
+"SMS Assist";1
+"G2";1
+"Project44";1
+"M1 Finance";1
+"WeBull";1
+"MyGlamm";1
+"UpGrad";1
+"Visier";1
+"Nexii";1
+"Dream Games";1
+"Dremio";1
+"Dunamu";1
+"Yanolja";1
+"L&P Cosmetic";1
+"GPclub";1
+"Snorkel AI";1
+"Flipboard";1
+"1KMXC";1
+"Hyperchain";1
+"Wacai";1
+"Dxy.cn";1
+"BeiBei";1
+"Leap Motor";1
+"Tongdun Technology";1
+"Hotmart";1
+"BitFury";1
+"Dave";1
+"Sunbit";1
+"FloQast";1
+"BlockDaemon";1
+"VideoAmp";1
+"JoyTunes";1
+"Bringg";1
+"Hailo";1
+"LifeMiles";1
+"Rubicon Global";1
+"SalesLoft";1
+"STORD";1
+"Proterra";1
+"Amperity";1
+"Karat";1
+"Qumulo";1
+"Rec Room";1
+"Dental Monitoring";1
+"Shift Technology";1
+"Meero";1
+"Doctolib";1
+"Deezer";1
+"YugaByte";1
+"Skydio";1
+"Branch";1
+"Course Hero";1
+"Ivalua";1
+"Alation";1
+"HeartFlow";1
+"Sidecar Health";1
+"TechStyle Fashion Group";1
+"Savage X Fenty";1
+"Vagaro";1
+"LetsGetChecked";1
+"Workhuman";1
+"Contrast Security";1
+"Ibotta";1
+"AgentSync";1
+"SonderMind";1
+"Assembly";1
+"Ninja Van";1
+"Cider";1
+"NIUM";1
+"bolttech";1
+"Carro";1
+"Matrixport";1
+"Moglix";1
+"PatSnap";1
+"WeLab";1
+"Carousell";1
+"Amber Group";1
+"Trax";1
+"REEF Technology";1
+"Papa";1
+"WTOIP";1
+"Yaoshibang";1
+"Juanpi";1
+"Hosjoy";1
+"Axiom Space";1
+"Grofers";1
+"Rivigo";1
+"Solo.io";1
+"Prime Medicine";1
+"Inari";1
+"EQRx";1
+"Iodine Software";1
+"The Zebra";1
+"Kendra Scott";1
+"Everly Health";1
+"Snapdeal";1
+"OVO Energy";1
+"Lessen";1
+"Fiture";1
+"Medlinker";1
+"Juma Peisong";1
+"Kitopi";1
+"Emerging Markets Property Group";1
+"SVOLT Energy";1
+"Copado";1
+"Cabify";1
+"Fair";1
+"Clara";1
+"Konfio";1
+"Rebel Foods";1
+"Playco";1
+"Liquid";1
+"o9 Solutions";1
+"Freshbooks";1
+"TensTorrent";1
+"Ada Support";1
+"OrCam Technologies";1
+"Zihaiguo";1
+"Solo.io";1
+"Prime Medicine";1
+"Inari";1
+"EQRx";1
+"Flash Express";1
+"Yipin Shengxian";1
+"Gymshark";1
+"Five Star Business Finance";1
+"Phenom People";1
+"Degreed";1
+"ChargeBee Technologies";1
+"Veepee";1
+"Klook";1
+"Alzheon";1
+"InSightec";1
+"Carsome";1
+"Flock Freight";1
+"Mythical Games";1
+"BrewDog";1
+"Spiber";1
+"Morning Consult";1
+"Vox Media";1
+"Rebellion Defense";1
+"Cava Group";1
+"Rohlik";1
+"Gelato";1
+"Oda";1
+"Offchain Labs";1
+"CarDekho";1
+"Venafi";1
+"TELD";1
+"OVH";1
+"Pharmapacks";1
+"Nexthink";1
+"CoinDCX";1
+"Radius Payment Solutions";1
+"Aprogen";1
+"Red Ventures";1
+"MindMaze";1
+"Modernizing Medicine";1
+"Cell C";1
+"Revolution Precrafted";1
+"HMD Global";1
+"China Cloud";1
+"Kuaigou Dache";1
+"Printful";1
+"Tresata";1
+"iFood";1
+"Orca Bio";1
+"Globality";1
+"Ynsect";1
+"SITECH DEV";1
+"C2FO";1
+"Numbrs";1
+"EBANX";1
+"Glovo";1
+"Infobip";1
+"Zwift";1
+"Socar";1
+"Boom Supersonic";1
+"Quantum Metric";1
+"MadeiraMadeira";1
+"DriveNets";1
+"Locus Robotics";1
+"Aqua Security";1
+"Yunxuetang";1
+"Fetch Rewards";1
+"Firefly Aerospace";1
+"Axtria";1
+"Lunar";1
+"Carson Group";1
+"Mammoth Biosciences";1
+"GO1";1
+"Interos";1
+"Mammoth Biosciences";1
+"GO1";1
+"Swile";1
+"Vagaro";1
+"LetsGetChecked";1
+"Workhuman";1
+"PLACE";1
+"Expel";1
+"Anyscale";1
+"ReliaQuest";1
+"Pet Circle";1

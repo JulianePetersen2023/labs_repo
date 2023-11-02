@@ -1,0 +1,239 @@
+"city_name";"avg(valuation)"
+"Hawthorne";100.0
+"Surry Hills";40.0
+"Cary";29.0
+"Jacksonville";18.0
+"Stockholm";14.5
+"Roseville";12.0
+"Luohe";11.0
+"Cheung Sha Wan";10.0
+"Walpole";10.0
+"Kirkland";9.0
+"Lerma de Villada";9.0
+"Reading";9.0
+"Philadelphia";8.5
+"Irving";8.0
+"Waltham";7.5
+"Pittsburgh";7.0
+"Glendale";6.5
+"Brooklyn";6.0
+"Melbourne";6.0
+"Jakarta";5.6
+"Brussels";5.0
+"Campinas";5.0
+"Zhuhai";5.0
+"Vilnius";5.0
+"Tallinn";5.0
+"Sao Paulo";4.8182
+"Beijing";4.6935
+"San Francisco";4.5111
+"London";4.5
+"Changsha";4.5
+"Istanbul";4.5
+"Hoboken";4.5
+"Munich";4.4
+"Gurugram";4.3333
+"Mumbai";4.0
+"Fremont";4.0
+"Eden Prairie";4.0
+"Inglewood";4.0
+"Mississauga";4.0
+"Columbus";4.0
+"Carlsbad";4.0
+"San Carlos";4.0
+"Detroit";4.0
+"Bend";4.0
+"Carson City";4.0
+"Duderstadt";4.0
+"San Ramon";4.0
+"Palo Alto";3.7273
+"Shenzhen";3.7222
+"San Diego";3.6667
+"San Jose";3.6667
+"Oakland";3.6667
+"Burlingame";3.6667
+"Boston";3.6429
+"Irvine";3.5
+"Montreal";3.5
+"Santa Clara";3.25
+"Bengaluru";3.24
+"Vancouver";3.0
+"Amsterdam";3.0
+"Bogota";3.0
+"Vienna";3.0
+"Englewood Cliffs";3.0
+"Alameda";3.0
+"Peterborough";3.0
+"Noida";3.0
+"Kitchener";3.0
+"Jersey City";3.0
+"South Jordan";3.0
+"Ho Chi Minh City";3.0
+"Westerville";3.0
+"Chatham";3.0
+"Raleigh";3.0
+"Louisville";3.0
+"Schaffhausen";3.0
+"Faridabad";3.0
+"Thane";3.0
+"Burlington";3.0
+"Dongguan";3.0
+"";2.8667
+"Sunnyvale";2.75
+"Culver City";2.6667
+"Tel Aviv";2.6154
+"Shanghai";2.5556
+"San Mateo";2.5
+"Los Altos";2.5
+"Bellevue";2.5
+"Mountain View";2.4615
+"Berlin";2.375
+"Seoul";2.3333
+"Nanjing";2.3333
+"Lehi";2.3333
+"New York";2.1481
+"Atlanta";2.1429
+"Paris";2.1333
+"Chicago";2.0
+"Guangzhou";2.0
+"Wuhan";2.0
+"Houston";2.0
+"Gurgaon";2.0
+"New Delhi";2.0
+"Bristol";2.0
+"Scottsdale";2.0
+"Buenos Aires";2.0
+"Foster City";2.0
+"Louvain-la-Neuve";2.0
+"Unterfoehring";2.0
+"Kowloon";2.0
+"Somerville";2.0
+"Giv'atayim";2.0
+"Leudelange";2.0
+"Goleta";2.0
+"Lagos";2.0
+"United States";2.0
+"Pennsauken";2.0
+"Plantation";2.0
+"Helsinki";2.0
+"Portola Valley";2.0
+"Taguig City";2.0
+"Netanya";2.0
+"Bethesda";2.0
+"Bangalore";2.0
+"Tel Aviv-Yafo";2.0
+"Copenhagen";2.0
+"Dakar";2.0
+"Hanover";2.0
+"Norfolk";2.0
+"Hamilton";2.0
+"Burnaby";2.0
+"Sydney";2.0
+"Lysaker";2.0
+"Hayward";2.0
+"Bryanston";2.0
+"Hunan";2.0
+"Jiangsu";2.0
+"Northbrook";2.0
+"Boulder";2.0
+"McLean";2.0
+"Santa Barbara";2.0
+"Santiago";2.0
+"Richmond";2.0
+"Draper";2.0
+"Cincinnati";2.0
+"Zephyr Cove";2.0
+"Altrincham";2.0
+"Marina del Rey";2.0
+"Nashville";2.0
+"Hangzhou";1.9286
+"Los Angeles";1.875
+"Seattle";1.8571
+"El Segundo";1.8
+"Denver";1.8
+"Miami";1.8
+"Dublin";1.75
+"Dubai";1.6667
+"Dallas";1.6667
+"Redwood City";1.6
+"Tokyo";1.6
+"Cambridge";1.5714
+"Austin";1.5
+"Changzhou";1.5
+"Santa Monica";1.5
+"Mexico City";1.5
+"Pune";1.5
+"Jerusalem";1.5
+"Chongqing";1.5
+"Bangkok";1.5
+"Toronto";1.4
+"Madrid";1.3333
+"Chengdu";1.25
+"Hefei";1.0
+"Solihull";1.0
+"Chennai";1.0
+"Ambler";1.0
+"Pleasanton";1.0
+"Walnut";1.0
+"La Plaine Saint-Denis";1.0
+"Central";1.0
+"Framingham";1.0
+"Tirat Carmel";1.0
+"Selangor";1.0
+"Encinitas";1.0
+"Sherman Oaks";1.0
+"Aberdeen";1.0
+"Tsuruoka";1.0
+"Washington DC";1.0
+"Prague";1.0
+"Oslo";1.0
+"Princeton";1.0
+"Jaipur";1.0
+"Salt Lake City";1.0
+"Qingdao";1.0
+"Roubaix";1.0
+"Islandia";1.0
+"Prilly";1.0
+"Maharashtra";1.0
+"Crewe";1.0
+"Seongnam-Si";1.0
+"Fort Mill";1.0
+"Lausanne";1.0
+"Boca Raton";1.0
+"Midrand";1.0
+"Manila";1.0
+"Espoo";1.0
+"Wuxi";1.0
+"Tianjin";1.0
+"Charlotte";1.0
+"Osasco";1.0
+"Menlo Park";1.0
+"Evry";1.0
+"Guiyang";1.0
+"Leawood";1.0
+"Zurich";1.0
+"Curitiba";1.0
+"Barcelona";1.0
+"Vodnjan";1.0
+"Long Beach";1.0
+"Jeju-do";1.0
+"Englewood";1.0
+"Colorado Springs";1.0
+"Parana";1.0
+"Ra'anana";1.0
+"Wilmington";1.0
+"Ramat Gan";1.0
+"Suzhou";1.0
+"Madison";1.0
+"Cedar Park";1.0
+"Berkeley Heights";1.0
+"Aarhus";1.0
+"Lincoln";1.0
+"Brisbane";1.0
+"Arlington";1.0
+"Montpellier";1.0
+"Bellingham";1.0
+"Herndon";1.0
+"Berkeley";1.0
+"Tampa";1.0
+"Alexandria";1.0

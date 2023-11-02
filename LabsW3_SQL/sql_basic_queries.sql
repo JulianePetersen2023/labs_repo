@@ -33,38 +33,50 @@ from store;
 select count(staff_id)
 from staff;
 
-select distinct last_name
+select count(film_id)
+from film;
+
+select count(rental_id)
+from rental;
+
+select count(distinct last_name)
 from actor;
 
 # Retrieve the 10 longest films.
-select length
+select title, length
 from film
 order by length desc
 limit 10;
 
 # Use filtering techniques in order to:
 # 7.1 Retrieve all actors with the first name "SCARLETT".
-select first_name
+select first_name, last_name
 from actor
 where first_name = "SCARLETT";
 
+#7.2
+select titla
+from film
+where title like '%armageddon%' and length > 100;
+
+#7.3
+select * from film;
+
+
 # LAB 2
 #1.1 Determine the shortest and longest movie durations and name the values as max_duration and min_duration.
-select max(length) as max_duration 
-from film;
-
-select min(length) as min_duration
+select max(length) as max_duration, min(length) as min_duration
 from film;
 
 # 1.2. Express the average movie duration in hours and minutes. Don't use decimals.
 # Hint: Look for floor and round functions.
-select round(avg(length)) 
+select floor(avg(length)/60), 'hours', round(avg(length) %60 ), 'minutes' as average_duration 
 from film;
 
 # 2.1 Calculate the number of days that the company has been operating.
 # Hint: To do this, use the rental table, and the DATEDIFF() function to subtract 
 # the earliest date in the rental_date column from the latest date.
-select datediff(max(rental_date), min(rental_date)) 
+select datediff(max(rental_date), min(rental_date)) as days_operating
 from rental;
 
 # 2.2 Retrieve rental information and add two additional columns 
@@ -79,8 +91,9 @@ limit 20;
 
 # 3. Retrieve the film titles and their rental duration. If any rental duration value is NULL, 
 # replace it with the string 'Not Available'. Sort the results of the film title in ascending order.
-select title, rental_duration, IFNULL(rental_duration, 'Not Available')
+select title, IFNULL(rental_duration, 'Not Available')
 from film;
+
 
 # Next, you need to analyze the films in the collection to gain some more insights. Using the film table, determine:
 #1.1 The total number of films that have been released.
@@ -105,7 +118,7 @@ order by count(film_id) desc;
 # 2.2 Identify which ratings have a mean duration of over two hours in order to help select films for customers 
 # who prefer longer movies.
 
-select rating, round(avg(length), 2) 
+select rating, round(avg(length), 2)  #
 from film
 group by rating
 order by avg(length) desc;

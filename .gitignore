@@ -3,3 +3,4 @@ Quests/config.py
 Quests/__pycache__/config.cpython-311.pyc
 Spotipy/__pycache__/config.cpython-311.pyc
 Spotipy/config.py
+Lessons/gpt_key.txt

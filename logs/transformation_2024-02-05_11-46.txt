@@ -1,0 +1,63 @@
+IMPORT: Data imported. 200 entries.
+
+DATA CLEANING: Whitespace removal successful.
+
+TABLE CREATION: resource.csv created. 200 entries.
+
+TABLE CREATION: organisation.csv created. 168 entries.
+
+---"Organisation" entries with "," separator (NOT split): 1
+ No.        Organisation
+  68 Elomia Health, Inc.
+
+---"Organisation" entries with ";" separator (split): 3
+ No.                  Organisation
+ 156 Thompson Reuters; Mekong Club
+ 160         Stop The Traffik; IBM
+ 176       AIST Japan; PARO Robots
+
+---"Organisation" entries with "&" separator (NOT split): 3
+ No.                                                 Organisation
+  58 The National Center for Missing & Exploited Children (NCMEC)
+  60 The National Center for Missing & Exploited Children (NCMEC)
+  61 The National Center for Missing & Exploited Children (NCMEC)
+
+TABLE CREATION: country.csv created. 34 entries.
+
+---"Country" entries with ";" separator (split): 1
+ No.   Country
+ 176 US; Japan
+
+TABLE CREATION: topic.csv created. 18 entries.
+
+---"Topics" entries with ";" separator (split): 96
+
+---"Topics" entries with "&" separator (NOT split): 156
+
+TABLE CREATION: target_group.csv created. 12 entries.
+
+---Target groups not included in predefined list:
+
+---"Target group" entries with ";" separator (split): 70
+
+TABLE CREATION: tech_type.csv created. 13 entries.
+
+---(Tech) types not included in predefined list:
+
+---"(Tech) type" entries with ";" separator (split): 95
+
+TABLE CREATION: tag.csv created. 7 entries.
+
+---"Tag" entries with ";" separator (split): 9
+
+TABLE CREATION: resource_X_organisation.csv created. 203 entries.
+
+TABLE CREATION: resource_X_country.csv created. 201 entries.
+
+TABLE CREATION: resource_X_topic.csv created. 305 entries.
+
+TABLE CREATION: resource_X_target_group.csv created. 291 entries.
+
+TABLE CREATION: resource_X_tech_type.csv created. 309 entries.
+
+TABLE CREATION: resource_X_tag.csv created. 93 entries.
